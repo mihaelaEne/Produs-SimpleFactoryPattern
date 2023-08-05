@@ -1,0 +1,3 @@
+Laptop,Asus,0.19
+Camasa,Zara,0.19
+Iphone,Apple,0.19
